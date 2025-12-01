@@ -1,2 +1,2 @@
 # BajajTestrepo
-Bajaj SQL test repo
+Bajaj SQL test repo: only sql file
